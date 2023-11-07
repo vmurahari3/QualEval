@@ -1,7 +1,7 @@
 # QualEval: LLM data scientist 
 
 
-**[QualEval: Qualitative Evaluation for Model Improvement]()**  
+**[QualEval: Qualitative Evaluation for Model Improvement](https://vishvakmurahari.com/QualEval/)**  
 [Vishvak Murahari<sup>*</sup>](https://vishvakmurahari.com/), [Ameet Deshpande<sup>*</sup>](https://ameet-1997.github.io/), [Peter Clark](https://allenai.org/team/peterc), [Tanmay Rajpurohit](http://tanmay.one/), [Ashish Sabharwal](https://allenai.org/team/ashishs), [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/), [Ashwin Kalyan](http://ashwinkalyan.com/)
 
 ![](images/dashboard_main.jpg)
